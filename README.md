@@ -33,5 +33,3 @@ Former QA Tester moving into Cybersecurity. Experienced in technical documentati
 ## Projects
 - [Cybersecurity Portfolio](https://drive.google.com/open?id=103fleOxP45w-dOTTv_W_MENRWZqlxIFm)
   - Practical exercises including network traffic analysis (DoS analysis), Linux security configurations (Permissions & Hardening), and SQL filters for security audits.
-- [QA Testing Portfolio](https://github.com/tu-usuario/tu-repo-qa)
-  - Detailed test cases, bug reporting documentation, and cross-browser testing execution.
