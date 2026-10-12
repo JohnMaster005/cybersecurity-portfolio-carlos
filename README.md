@@ -23,7 +23,6 @@ Former QA Tester moving into Cybersecurity. Experienced in technical documentati
 
 ### QA & Documentation
 - **Test Management:** JIRA, TestRail, MS Excel.
-- **Automation:** Selenium, Postman (API Testing).
 - **Documentation:** Technical manuals, safety posters, markdown.
 
 ## Certifications
